@@ -67,6 +67,7 @@ Custom prompts were designed to centralize business rules related to:
 
 ## 🔎 NotebookLM Workspace
 
+This workspace demonstrates the application of Generative AI to support financial performance analysis and capital allocation strategy.
 You can access the AI-assisted financial analysis workspace here:
 
 [Open NotebookLM Analysis](https://notebooklm.google.com/notebook/e46bab61-94ab-4f4f-8016-07057e6d37c4).
