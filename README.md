@@ -90,6 +90,5 @@ You can access the AI-assisted financial analysis workspace here:
 
 ## 📂 Project Assets
 
-- Prompt Engineering File  
-- Sample Financial Dataset  
-- NotebookLM Analysis Outputs  
+- [Prompt Engineering File](prompts/prompt-engineering.md)
+- NotebookLM Analysis Outputs (available in /images)
