@@ -63,7 +63,23 @@ Custom prompts were designed to centralize business rules related to:
 
 ## 📷 NotebookLM Analysis Preview
 
-(Add screenshots here)
+### Financial Interpretation
+![Financial Interpretation](images/ai-financial-interpretation.png)
+
+---
+
+### Risk Identification
+![Risk Identification](images/risk-identification.png)
+
+---
+
+### Strategic Recommendations
+![Strategic Recommendations](images/strategic-recommendations.png)
+
+---
+
+### Executive Summary
+![Executive Summary](images/executive-summary.png)
 
 ## 🔎 NotebookLM Workspace
 
